@@ -16,9 +16,9 @@ pytorch 1.10.0
 ### Code Architecture
 
 ```
-|── dataloaders                # datasets and load scripts
-|── utils                   # Common useful modules
-|── Models                  # models of LTDNet-EEG
+|── dataloaders                    # datasets and load scripts
+|── utils                          # Common useful modules
+|── Models                         # models of LTDNet-EEG
 └── EEGDenoising                   # train scripts
 ```
 

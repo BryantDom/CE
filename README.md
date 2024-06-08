@@ -1,6 +1,6 @@
 # LTDNet-EEG: A Lightweight Network of Portable/Wearable Devices for Real-Time EEG Signal Denoising
 
-A PyTorch implementation of LTDNet-EEG "LTDNet-EEG: A Lightweight Network of Portable/Wearable Devices for Real-Time EEG Signal Denoising". (Hope to be published in TCE)
+A PyTorch implementation of LTDNet-EEG "LTDNet-EEG: A Lightweight Network of Portable/Wearable Devices for Real-Time EEG Signal Denoising". 
 
 ## Abstract
 

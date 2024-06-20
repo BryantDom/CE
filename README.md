@@ -24,11 +24,11 @@ pytorch 1.10.0
 
 ## Citation
 
-@article{huang2024ltdnet,
-  title={LTDNet-EEG: A Lightweight Network of Portable/Wearable Devices for Real-Time EEG Signal Denoising},
-  author={Huang, Jingwei and Wang, Chuansheng and Zhao, Wanqi and Grau, Antoni and Xue, Xingsi and Zhang, Fuquan},
-  journal={IEEE Transactions on Consumer Electronics},
-  year={2024},
-  publisher={IEEE}
+@article{huang2024ltdnet,  
+  title={LTDNet-EEG: A Lightweight Network of Portable/Wearable Devices for Real-Time EEG Signal Denoising},  
+  author={Huang, Jingwei and Wang, Chuansheng and Zhao, Wanqi and Grau, Antoni and Xue, Xingsi and Zhang, Fuquan},  
+  journal={IEEE Transactions on Consumer Electronics},  
+  year={2024},  
+  publisher={IEEE}  
 }
 
